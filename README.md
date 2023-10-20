@@ -17,7 +17,7 @@
 
 #### Workspace
 - Create a workspace and src directory
-  - mkdir workspace_name/src
+  - mkdir -p workspace_name/src
   - cd workspace_name/src
 
 - Be sure to have the hsr descirption of code iai sourced or clone the repository into this workspace
@@ -37,7 +37,7 @@
   
 - Then build and source the workspace 
   - catkin build
-  - source /devel/setup.bash
+  - source devel/setup.bash
 
 ### Launch:
 
