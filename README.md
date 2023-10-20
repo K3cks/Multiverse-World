@@ -13,7 +13,7 @@
   - curl -sSL http://get.gazebosim.org | sh
 
 - Download cob gazebo objects
-  - Sudo apt install ros-noetic-cob-gazebo-objects 
+  - sudo apt install ros-noetic-cob-gazebo-objects 
 
 #### Workspace
 - Create a workspace and src directory
